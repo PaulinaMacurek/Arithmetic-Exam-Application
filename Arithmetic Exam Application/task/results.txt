@@ -1,1 +1,2 @@
-The quick brown fox jumps over a lazy dog
+Paulina: 4/5 in level 1 (simple operations with numbers 2-9). 
+Bob: 2/5 in level 2 (integral squares 11-29).
